@@ -1,0 +1,13 @@
+.cart-container {
+    padding: 1rem;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  button {
+    margin: 0.5rem;
+  }
