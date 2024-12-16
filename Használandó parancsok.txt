@@ -1,0 +1,14 @@
+Használandó parancsok:
+
+XAMPP elindítása
+
+Backed:
+npm i
+npx prisma db push
+npx prisma db seed
+
+npm run start
+
+Frontend:
+npm i
+npm run dev
